@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋, I'm Sagar Singh
+# I'm Sagar Singh
 
 🎓 MCA Student  
  
