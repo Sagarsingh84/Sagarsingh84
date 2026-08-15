@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Hi 👋, I'm Sagar Singh
 
 🎓 MCA Student  
@@ -9,4 +8,4 @@
 
 ## Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js,php,cs,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,php,c,html,css,mysql" />
