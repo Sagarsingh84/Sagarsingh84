@@ -3,8 +3,6 @@
 # I'm Sagar Singh
 
 🎓 MCA Student  
- 
-📚 Interested in Data Analytics
 
 ## Languages & Tools
 
